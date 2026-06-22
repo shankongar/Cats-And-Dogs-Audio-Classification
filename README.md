@@ -328,28 +328,6 @@ python main.py
 
 ---
 
-## 🎓 学术资源
-
-### 实验报告
-
-每个任务都包含完整的学术实验报告：
-
-- [`work_1_visualize/experiment_report.tex`](work_1_visualize/experiment_report.tex) - 数据可视化报告
-- [`work_2_ML_classfier/experiment_report.tex`](work_2_ML_classfier/experiment_report.tex) - 机器学习分类报告
-- [`work_3_dl_classfier/experiment_report.tex`](work_3_dl_classfier/experiment_report.tex) - 深度学习分类报告
-
-**报告特点**:
-- 📝 符合学术论文规范（摘要、引言、方法、实验、结论）
-- 📊 包含所有关键图表和数据表格
-- 📚 引用相关文献
-- 🔬 定量分析和定性讨论结合
-
-### 技术文档
-
-- `TECHNICAL_DOCUMENT.md` - 技术细节与原理说明（如存在）
-
----
-
 ## 💡 使用示例
 
 ### 示例1: 使用训练好的模型进行预测
@@ -488,30 +466,10 @@ TRAINING_PARAMS = {
 
 - **可视化图表**: 34+ 张 (PNG + PDF双格式)
 - **训练好的模型**: 21个 (.pkl / .pth)
-- **实验报告**: 3份 (LaTeX + HTML)
 - **CSV数据表**: 15+
 - **日志文件**: 11个
 
 ---
-
-## 🤝 贡献指南
-
-欢迎贡献代码、报告问题或提出改进建议！
-
-### 如何贡献
-
-1. **Fork** 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 **Pull Request**
-
-### 代码风格
-
-- 遵循PEP 8 Python编码规范
-- 添加必要的注释和文档字符串
-- 保持函数和类的单一职责原则
-- 提供使用示例
 
 ### Issue模板
 
@@ -520,31 +478,6 @@ TRAINING_PARAMS = {
 - 完整的错误信息（Traceback）
 - 复现步骤
 - 期望行为 vs 实际行为
-
----
-
-## 📋 待办事项 (TODO)
-
-- [ ] 扩展数据集至1000+样本以提升统计可靠性
-- [ ] 实现数据增强模块 (SpecAugment, MixUp, 时间拉伸)
-- [ ] 添加更多先进架构 (Transformer, ResNet, EfficientNet)
-- [ ] 开发Web API接口用于在线预测
-- [ ] 移动端部署方案 (TensorFlow Lite, ONNX Runtime)
-- [ ] 添加单元测试和集成测试
-- [ ] 实现自动化CI/CD流水线
-- [ ] 多语言支持 (英文版README和报告)
-
----
-
-## 📚 参考文献
-
-1. Vapnik V. *The Nature of Statistical Learning Theory*. Springer, 2013.
-2. Breiman L. "Random forests". *Machine Learning*, 2001.
-3. Chen T, Guestrin C. "XGBoost: A Scalable Tree Boosting System". KDD, 2016.
-4. Goodfellow I, et al. *Deep Learning*. MIT Press, 2016.
-5. Hochreiter S, Schmidhuber J. "Long short-term memory". *Neural Computation*, 1997.
-6. Vaswani A, et al. "Attention is All You Need". NeurIPS, 2017.
-7. Wolpert D H, Macready W G. "No Free Lunch Theorems for Optimization". IEEE TEVC, 1997.
 
 ---
 
@@ -574,27 +507,16 @@ copies or substantial portions of the Software.
 
 **Speech Classification Project Team**
 
-- **项目负责人**: [Your Name]
-- **核心开发**: [Contributor Names]
-- **技术指导**: [Advisor Name]
-- **所属机构**: [Institution]
-
----
-
-## 🙏 致谢
-
-- 感谢 **PyTorch团队** 提供优秀的深度学习框架
-- 感谢 **scikit-learn社区** 提供丰富的机器学习算法实现
-- 感谢 **librosa团队** 提供专业的音频处理工具
-- 感谢开源社区的贡献者们
+- **项目负责人**: [shankongar]
+- **核心开发**: [shankongar]
 
 ---
 
 ## 📞 联系方式
 
-- **问题反馈**: [GitHub Issues](https://github.com/YOUR_USERNAME/SpeechClassfier/issues)
-- **技术讨论**: [Discussions](https://github.com/YOUR_USERNAME/SpeechClassfier/discussions)
-- **邮箱**: [your.email@example.com]
+- **问题反馈**: [GitHub Issues](https://github.com/shankongar/SpeechClassfier/issues)
+- **技术讨论**: [Discussions](https://github.com/shankongar/SpeechClassfier/discussions)
+- **邮箱**: [float_inf@foxmail.com]
 
 ---
 
